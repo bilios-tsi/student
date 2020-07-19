@@ -1,0 +1,13 @@
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.exe
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.deps.json
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.runtimeconfig.json
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.dll
+C:\Users\Tom\source\repos\mine\mine\bin\Debug\netcoreapp3.1\mine.pdb
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.AssemblyInfo.cs
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.dll
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.pdb
+C:\Users\Tom\source\repos\mine\mine\obj\Debug\netcoreapp3.1\mine.genruntimeconfig.cache
